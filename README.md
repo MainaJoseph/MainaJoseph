@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MainaJoseph
+# Hello there 👋, I'm MainaJoseph 🦦
 - 👀 I’m interested in PHP, CSS, javascript, React
 - 🌱 I’m currently learning Nodejs & Nextjs
 - 💞️ I’m looking to collaborate on projects involving high deep end research
