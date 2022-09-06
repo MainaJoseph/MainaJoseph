@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, CSS, javascript, React
 - 🌱 I’m currently learning Nodejs & Nextjs
 - 💞️ I’m looking to collaborate on projects involving high deep end research
-- 📫 How to reach me mainajm254@gmail.com or https://sites.google.com/view/solutionsoft/home?authuser=0
+- 📫 How to reach me mainajm254@gmail.com or https://sites.google.com/view/solutionsoft/home?authuser=0 or www.linkedin.com/in/joseph-mainajm
 
 <!---
 MainaJoseph/MainaJoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
