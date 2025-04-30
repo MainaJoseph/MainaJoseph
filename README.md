@@ -56,8 +56,9 @@ Let’s create tools that make a difference.
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=MainaJoseph&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-indol-five.vercel.app/?user=MainaJoseph&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
