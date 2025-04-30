@@ -31,15 +31,12 @@
 ---
 
 ## 🚀 Projects & Collaboration
-
 I'm passionate about solving real-world problems through code. Whether it's building intuitive UIs or architecting scalable backends, I enjoy collaborating on innovative projects with creative minds.
-
-Let’s create tools that make a difference.
+Let's create tools that make a difference.
 
 ---
 
 ## 🤝 Get in Touch
-
 <p align="left">
   <a href="mailto:mainajm254@gmail.com"><img src="https://img.shields.io/badge/Email-mainajm254@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://mainajm254.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mainajm254.vercel.app-000?style=for-the-badge&logo=vercel" /></a>
@@ -49,17 +46,14 @@ Let’s create tools that make a difference.
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MainaJoseph&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaJoseph&layout=compact&theme=tokyonight" height="160" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats-indol-five.vercel.app/?user=MainaJoseph&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MainaJoseph&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 
 ---
 
-Let’s build something **remarkable** together! 🚀
+Let's build something **remarkable** together! 🚀
