@@ -56,7 +56,7 @@ Let’s create tools that make a difference.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MainaJoseph&theme=tokyonight" />
+ <img src="https://streak-stats.demolab.com/?user=MainaJoseph&theme=tokyonight" />
 </p>
 
 ---
