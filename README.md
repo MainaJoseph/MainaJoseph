@@ -8,25 +8,25 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Frontend
-[![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react)](https://reactnative.dev/)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react" alt="React" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react" alt="React Native" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" /></a>
 
 ### 🛠️ Backend & Tools
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" alt="Express.js" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase" alt="Firebase" /></a>
 
 ### ☁️ Cloud & Hosting
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS" /></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure" /></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel" /></a>
 
 ---
 
@@ -39,8 +39,8 @@ Let's create tools that make a difference.
 ## 🤝 Get in Touch
 <p align="left">
   <a href="mailto:mainajm254@gmail.com"><img src="https://img.shields.io/badge/Email-mainajm254@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://mainajm254.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mainajm254.vercel.app-000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://www.linkedin.com/in/joseph-mainajm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Joseph%20Maina-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://mainajm254.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-mainajm254.vercel.app-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/joseph-mainajm/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Joseph%20Maina-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
