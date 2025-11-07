@@ -55,13 +55,6 @@ const joseph = {
     services: ["Web Development", "Mobile Apps", "Cloud Solutions", "Custom Software"]
   },
   
-  workingOn: [
-    "Fuel Management Systems (TATS)",
-    "E-commerce Platforms (Nova Commerce)",
-    "Cloud-Native Applications",
-    "Healthcare Solutions"
-  ],
-  
   expertise: {
     frontend: ["React", "Next.js 15", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "SQL Server", "PostgreSQL"],
@@ -222,81 +215,6 @@ const joseph = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Featured Projects -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Featured+Projects" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛢️ TATS (Total Analytics & Tracking Suite)
-**Comprehensive Fuel Management System**
-- Real-time tank gauge monitoring (ATG)
-- Transaction tracking & analytics
-- Maintenance scheduling
-- Multi-station management
-- Role-based access control
-
-**Tech:** Next.js, TypeScript, SQL Server, Azure
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Nova Commerce
-**Next-Generation E-commerce Platform**
-- Seamless payment integration
-- Advanced product management
-- Customer analytics dashboard
-- Mobile-responsive design
-- Multi-currency support
-
-**Tech:** React, Node.js, MongoDB, Stripe
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Healthcare Solutions
-**Patient Care Management System**
-- Appointment scheduling
-- Patient records management
-- Doctor-patient portal
-- Prescription tracking
-- HIPAA compliant
-
-**Tech:** Next.js, PostgreSQL, AWS
-
-</td>
-<td width="50%" valign="top">
-
-### 📞 Lynk Video Platform
-**Modern Video Calling Application**
-- HD video conferencing
-- Real-time messaging
-- Screen sharing capabilities
-- Recording features
-- End-to-end encryption
-
-**Tech:** React, WebRTC, Node.js, Socket.io
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+Contribution+Graph" />
@@ -328,47 +246,6 @@ const joseph = {
 <img src="https://github-profile-trophy.vercel.app/?username=MainaJoseph&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%"/>
 
 <br/><br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Client Testimonials -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AC+Client+Testimonials" />
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
-  <br/><br/>
-  <i>"Exceptional professionalism and technical expertise. The LPG monitoring dashboard exceeded expectations!"</i>
-  <br/><br/>
-  <b>Charles Weru</b><br/>
-  CEO, Remos
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
-  <br/><br/>
-  <i>"Working with Joseph was fantastic. His creativity and dedication delivered outstanding results."</i>
-  <br/><br/>
-  <b>Dr. Michael Chen</b><br/>
-  CTO, HealthTech Solutions
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
-  <br/><br/>
-  <i>"His enthusiasm for development is impressive. An ideal partner for elevating your brand."</i>
-  <br/><br/>
-  <b>Muthoni Lucy</b><br/>
-  Director, Alpha Tech
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -447,15 +324,6 @@ const joseph = {
 </div>
 
 <br/><br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MainaJoseph/MainaJoseph/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MainaJoseph/MainaJoseph/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MainaJoseph/MainaJoseph/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
