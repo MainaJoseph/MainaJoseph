@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Founder+%26+CEO+at+Azuri+%F0%9F%8C%9F;React+%7C+Next.js+%7C+TypeScript;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <!-- Animated Divider -->
@@ -13,8 +13,11 @@
 
 <!-- Social Badges with Glow Effect -->
 <p>
-  <a href="https://mainajm254.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" />
+  <a href="https://portfolio.azuritek.com/">
+    <img src="https://img.shields.io/badge/🎨_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="https://www.azuritek.com/">
+    <img src="https://img.shields.io/badge/🌟_AZURI-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000" alt="Azuri" />
   </a>
   <a href="https://www.linkedin.com/in/joseph-mainajm/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
@@ -42,23 +45,40 @@
 ```typescript
 const joseph = {
   location: "Nairobi, Kenya 🇰🇪",
-  role: "Full Stack Developer",
+  role: "Founder & CEO at Azuri",
+  title: "Full Stack Developer & Solutions Architect",
+  
+  company: {
+    name: "Azuri",
+    mission: "Transforming Ideas into Digital Reality",
+    website: "https://www.azuritek.com",
+    services: ["Web Development", "Mobile Apps", "Cloud Solutions", "Custom Software"]
+  },
   
   workingOn: [
     "Fuel Management Systems (TATS)",
-    "E-commerce Platforms",
-    "Cloud-Native Applications"
+    "E-commerce Platforms (Nova Commerce)",
+    "Cloud-Native Applications",
+    "Healthcare Solutions"
   ],
   
   expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    frontend: ["React", "Next.js 15", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "SQL Server", "PostgreSQL"],
     cloud: ["Azure", "AWS", "Vercel"],
-    mobile: ["React Native"]
+    mobile: ["React Native"],
+    specialties: ["System Architecture", "Performance Optimization", "i18n/Localization"]
   },
   
-  currentFocus: "Building scalable, user-centric applications",
-  funFact: "I turn ☕ into <code/>",
+  currentFocus: "Building scalable, user-centric applications that drive business growth",
+  
+  achievements: [
+    "Founded Azuri - Leading Digital Solutions Company",
+    "Delivered 20+ Enterprise Projects",
+    "Specialized in Fuel Management & Healthcare Tech"
+  ],
+  
+  funFact: "I turn ☕ into <code/> and ideas into reality 🚀",
   
   philosophy: "Write code that speaks for itself 🎯"
 };
@@ -119,12 +139,13 @@ const joseph = {
 
 ### 🎯 Frontend Excellence
 ```yaml
-- Pixel-perfect UI implementations
-- Responsive & mobile-first design
-- Performance optimization
-- Modern React patterns
-- State management (Redux, Zustand)
-- i18n & localization
+✓ Pixel-perfect UI implementations
+✓ Responsive & mobile-first design
+✓ Performance optimization (Core Web Vitals)
+✓ Modern React patterns & hooks
+✓ State management (Redux, Zustand)
+✓ i18n & localization (EN/FR)
+✓ Advanced animations & interactions
 ```
 
 </td>
@@ -132,12 +153,13 @@ const joseph = {
 
 ### 🚀 Backend Architecture
 ```yaml
-- RESTful API design
-- Database optimization
-- Authentication & authorization
-- Cloud infrastructure
-- Microservices patterns
-- Real-time applications
+✓ RESTful API design & development
+✓ Database optimization & indexing
+✓ Authentication & authorization (Clerk, OAuth)
+✓ Cloud infrastructure (Azure, AWS)
+✓ Microservices patterns
+✓ Real-time applications (WebSockets)
+✓ Payment integrations (M-Pesa, Stripe)
 ```
 
 </td>
@@ -149,7 +171,58 @@ const joseph = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Current Projects -->
+<!-- Azuri Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Azuri+-+My+Company" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏢 Transforming Ideas into Digital Reality
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
+      <br/><b>Web Development</b>
+      <br/>Custom websites & web apps
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/smartphone-tablet.png" width="60"/>
+      <br/><b>Mobile Apps</b>
+      <br/>Native & cross-platform
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/>
+      <br/><b>Cloud Services</b>
+      <br/>Scalable infrastructure
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+      <br/><b>Custom Software</b>
+      <br/>Tailored solutions
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://www.azuritek.com/">
+  <img src="https://img.shields.io/badge/🚀_Visit_Azuri-FF6B35?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+**Delivered 20+ Enterprise Projects | Trusted by Leading Companies**
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Featured+Projects" />
 </div>
@@ -158,10 +231,64 @@ const joseph = {
 
 <div align="center">
 
-<!-- Project Cards -->
-<a href="https://github.com/MainaJoseph">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MainaJoseph&repo=TATS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛢️ TATS (Total Analytics & Tracking Suite)
+**Comprehensive Fuel Management System**
+- Real-time tank gauge monitoring (ATG)
+- Transaction tracking & analytics
+- Maintenance scheduling
+- Multi-station management
+- Role-based access control
+
+**Tech:** Next.js, TypeScript, SQL Server, Azure
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Nova Commerce
+**Next-Generation E-commerce Platform**
+- Seamless payment integration
+- Advanced product management
+- Customer analytics dashboard
+- Mobile-responsive design
+- Multi-currency support
+
+**Tech:** React, Node.js, MongoDB, Stripe
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare Solutions
+**Patient Care Management System**
+- Appointment scheduling
+- Patient records management
+- Doctor-patient portal
+- Prescription tracking
+- HIPAA compliant
+
+**Tech:** Next.js, PostgreSQL, AWS
+
+</td>
+<td width="50%" valign="top">
+
+### 📞 Lynk Video Platform
+**Modern Video Calling Application**
+- HD video conferencing
+- Real-time messaging
+- Screen sharing capabilities
+- Recording features
+- End-to-end encryption
+
+**Tech:** React, WebRTC, Node.js, Socket.io
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -205,6 +332,47 @@ const joseph = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Client Testimonials -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AC+Client+Testimonials" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
+  <br/><br/>
+  <i>"Exceptional professionalism and technical expertise. The LPG monitoring dashboard exceeded expectations!"</i>
+  <br/><br/>
+  <b>Charles Weru</b><br/>
+  CEO, Remos
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
+  <br/><br/>
+  <i>"Working with Joseph was fantastic. His creativity and dedication delivered outstanding results."</i>
+  <br/><br/>
+  <b>Dr. Michael Chen</b><br/>
+  CTO, HealthTech Solutions
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/000000/star.png" width="40"/>
+  <br/><br/>
+  <i>"His enthusiasm for development is impressive. An ideal partner for elevating your brand."</i>
+  <br/><br/>
+  <b>Muthoni Lucy</b><br/>
+  Director, Alpha Tech
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Connect Section -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Let's+Connect!" />
@@ -222,16 +390,19 @@ const joseph = {
       <img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="50"/>
       <br/><b>Collaboration</b>
       <br/>Open Source Projects
+      <br/>Tech Partnerships
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50"/>
-      <br/><b>Opportunities</b>
-      <br/>Full-time • Freelance
+      <br/><b>Business Opportunities</b>
+      <br/>Full-time Positions
+      <br/>Freelance Projects
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/>
-      <br/><b>Discussion</b>
-      <br/>Tech • Ideas • Coffee
+      <br/><b>Let's Talk</b>
+      <br/>Tech Discussions
+      <br/>Ideas & Innovation
     </td>
   </tr>
 </table>
@@ -244,9 +415,17 @@ const joseph = {
   <img src="https://img.shields.io/badge/📧_mainajm254@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
 <br/><br/>
-<a href="https://mainajm254.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00D9FF?style=for-the-badge" height="35"/>
+<a href="https://portfolio.azuritek.com/">
+  <img src="https://img.shields.io/badge/🎨_View_My_Portfolio-00D9FF?style=for-the-badge" height="35"/>
 </a>
+<br/><br/>
+<a href="https://www.azuritek.com/">
+  <img src="https://img.shields.io/badge/🌟_Visit_Azuri-FF6B35?style=for-the-badge" height="35"/>
+</a>
+
+<br/><br/>
+
+**📍 Location:** Nairobi, Kenya 🇰🇪 | **📞 Phone:** +254 702 156146
 
 </div>
 
@@ -262,9 +441,9 @@ const joseph = {
 
 <br/>
 
-<!-- Fun Fact -->
+<!-- Fun Facts -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Fun+Fact%3A+My+code+compiles+on+the+first+try...+sometimes+%F0%9F%98%85;%E2%98%95+Coffee+%2B+Code+%3D+Magic+%E2%9C%A8;%F0%9F%8C%99+Best+code+written+after+midnight!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Fun+Facts%3A+Founded+Azuri+%7C+Delivered+20%2B+Projects+%F0%9F%9A%80;%E2%98%95+Coffee+%2B+Code+%3D+Magic+%E2%9C%A8;%F0%9F%8C%99+Best+code+written+after+midnight!;%F0%9F%87%B0%F0%9F%87%AA+Proudly+Building+from+Nairobi%2C+Kenya!" />
 </div>
 
 <br/><br/>
@@ -283,8 +462,18 @@ const joseph = {
 
 <!-- Final Message -->
 <div align="center">
-  <h3>✨ Let's Build Something Remarkable Together! ✨</h3>
+  <h2>✨ Let's Build Something Remarkable Together! ✨</h2>
   <p><i>"The best way to predict the future is to create it."</i></p>
+  
+  <br/>
+  
+  **Founder & CEO of Azuri | Full Stack Developer | Cloud Solutions Architect**
+  
+  <br/>
+  
+  <a href="https://www.azuritek.com/">
+    <img src="https://img.shields.io/badge/Transforming_Ideas_into_Digital_Reality-Visit_Azuri-FF6B35?style=for-the-badge" />
+  </a>
 </div>
 
 </div>
