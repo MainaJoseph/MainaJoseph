@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Joseph%20Maina&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=Founder%20%26%20CEO%20at%20Azuri%20%7C%20Full%20Stack%20Architect&descSize=20&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Joseph%20Maina&fontSize=90&fontAlignY=40&fontColor=ffffff&color=gradient&customColorList=6,11,17,23&animation=fadeIn&desc=Founder%20%26%20CEO%20at%20Azuri%20|%20Full%20Stack%20Architect&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Joseph+Maina;Full+Stack+Developer;Solutions+Architect;CEO+%26+Founder+of+Azuri;Let's+Build+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Joseph;Full+Stack+Developer;Solutions+Architect;CEO+%26+Founder+of+Azuri;Let's+Build+Together!" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Intro -->
@@ -48,10 +48,10 @@ console.log(joseph.currentMission);
 <!-- Social Links -->
 <p align="center">
   <a href="https://portfolio.azuritek.com">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-00D9A3?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.azuritek.com">
-    <img src="https://img.shields.io/badge/Azuri-764ba2?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azuri-00B88F?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joseph-mainajm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,8 +65,8 @@ console.log(joseph.currentMission);
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MainaJoseph&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/MainaJoseph?label=Followers&style=flat-square&color=764ba2" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=MainaJoseph&label=Profile%20Views&color=00D9A3&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/MainaJoseph?label=Followers&style=flat-square&color=00B88F" alt="followers"/>
 </p>
 
 <br/>
@@ -105,7 +105,7 @@ currently_learning:
   - "Kubernetes & Container Orchestration"
   - "AI/ML Integration"
 
-2026_goals:
+2024_goals:
   - "Scale Azuri to 50+ clients"
   - "Launch 3 major SaaS products"
   - "Contribute more to Open Source"
@@ -201,19 +201,25 @@ hobbies:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MainaJoseph&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_color=667eea"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaJoseph&layout=compact&langs_count=8&theme=algolia&border_color=667eea&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MainaJoseph&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00D9A3&title_color=00D9A3&icon_color=00D9A3&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaJoseph&layout=compact&langs_count=8&theme=dark&border_color=00D9A3&title_color=00D9A3&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MainaJoseph&theme=algolia&border=667eea" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MainaJoseph&theme=dark&border=00D9A3&ring=00D9A3&fire=00B88F&currStreakLabel=00D9A3&sideNums=ffffff&currStreakNum=ffffff&sideLabels=00D9A3&dates=ffffff&background=0d1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MainaJoseph&theme=react-dark&bg_color=20232a&hide_border=false&border=667eea&color=667eea&line=764ba2&point=ffffff&area=true&area_color=764ba2" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MainaJoseph&theme=react-dark&bg_color=0d1117&hide_border=false&border=00D9A3&color=00D9A3&line=00B88F&point=ffffff&area=true&area_color=00B88F" width="100%"/>
 </p>
 
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MainaJoseph&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7&border=667eea" alt="Trophies"/>
+</p>
 
 ---
 
@@ -265,18 +271,18 @@ hobbies:
   
 ### 📈 Our Impact
   
-<img src="https://img.shields.io/badge/Clients-20+-667eea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects_Delivered-50+-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Years_Experience-5+-f093fb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Client_Satisfaction-98%25-4facfe?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clients-20+-00D9A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects_Delivered-50+-00B88F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Years_Experience-5+-45B7A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client_Satisfaction-98%25-4ECDC4?style=for-the-badge"/>
   
 <br/><br/>
   
 <a href="https://www.azuritek.com">
-  <img src="https://img.shields.io/badge/Visit_Azuri-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&size=large" height="40"/>
+  <img src="https://img.shields.io/badge/Visit_Azuri-00D9A3?style=for-the-badge&logo=google-chrome&logoColor=white&size=large" height="40"/>
 </a>
 <a href="https://portfolio.azuritek.com">
-  <img src="https://img.shields.io/badge/View_Portfolio-764ba2?style=for-the-badge&logo=firefox&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/View_Portfolio-00B88F?style=for-the-badge&logo=firefox&logoColor=white" height="40"/>
 </a>
   
 </div>
@@ -368,7 +374,7 @@ hobbies:
     <img src="https://img.shields.io/badge/-@yourhandle-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://portfolio.azuritek.com">
-    <img src="https://img.shields.io/badge/-Portfolio-667eea?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-00D9A3?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -425,14 +431,14 @@ hobbies:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Founded+Azuri+in+2019;%E2%98%95+Coffee+Powered+Developer;%F0%9F%8C%99+Night+Owl+Coder;%F0%9F%87%B0%F0%9F%87%AA+Building+from+Kenya;%F0%9F%9A%80+Delivered+50%2B+Projects;%F0%9F%92%BB+5%2B+Years+of+Experience;%F0%9F%8C%8D+Serving+Clients+Globally" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&duration=4000&pause=1000&color=00D9A3&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Founded+Azuri+in+2019;%E2%98%95+Coffee+Powered+Developer;%F0%9F%8C%99+Night+Owl+Coder;%F0%9F%87%B0%F0%9F%87%AA+Building+from+Kenya;%F0%9F%9A%80+Delivered+50%2B+Projects;%F0%9F%92%BB+5%2B+Years+of+Experience;%F0%9F%8C%8D+Serving+Clients+Globally" />
 </div>
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,23&height=100&section=footer"/>
 
 <div align="center">
   
