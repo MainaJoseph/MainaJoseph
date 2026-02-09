@@ -209,13 +209,7 @@ hobbies:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MainaJoseph&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7&border=667eea" alt="Trophies"/>
-</p>
-
----
 
 ## 🌟 Azuri - My Company
 
