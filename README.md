@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Joseph%20Maina&fontSize=90&fontAlignY=40&fontColor=ffffff&color=gradient&customColorList=6,11,17,23&animation=fadeIn&desc=Founder%20%26%20CEO%20at%20Azuri%20|%20Full%20Stack%20Architect&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://pbs.twimg.com/profile_banners/1097107195492270080/1697019964/600x200" width="100%"/>
 </p>
 
 <!-- Animated Title -->
