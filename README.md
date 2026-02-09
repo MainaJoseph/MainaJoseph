@@ -197,10 +197,7 @@ hobbies:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MainaJoseph&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00D9A3&title_color=00D9A3&icon_color=00D9A3&text_color=ffffff&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaJoseph&layout=compact&langs_count=8&theme=dark&border_color=00D9A3&title_color=00D9A3&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MainaJoseph&theme=dark&border=00D9A3&ring=00D9A3&fire=00B88F&currStreakLabel=00D9A3&sideNums=ffffff&currStreakNum=ffffff&sideLabels=00D9A3&dates=ffffff&background=0d1117" alt="GitHub Streak"/>
