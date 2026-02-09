@@ -2,7 +2,7 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Joseph;Full+Stack+Developer;Solutions+Architect;CEO+%26+Founder+of+Azuri;Let's+Build+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Joseph+Maina;Full+Stack+Developer;Solutions+Architect;CEO+%26+Founder+of+Azuri;Let's+Build+Together!" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Intro -->
