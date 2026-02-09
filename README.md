@@ -1,7 +1,4 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1097107195492270080/1697019964/600x200" width="100%"/>
-</p>
+
 
 <!-- Animated Title -->
 <h1 align="center">
