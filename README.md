@@ -5,7 +5,7 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Joseph;Full+Stack+Developer;Solutions+Architect;CEO+%26+Founder+of+Azuri;Let's+Build+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Joseph+Maina;Full+Stack+Developer;Solutions+Architect;CEO+%26+Founder+of+Azuri;Let's+Build+Together!" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Intro -->
@@ -105,7 +105,7 @@ currently_learning:
   - "Kubernetes & Container Orchestration"
   - "AI/ML Integration"
 
-2024_goals:
+2026_goals:
   - "Scale Azuri to 50+ clients"
   - "Launch 3 major SaaS products"
   - "Contribute more to Open Source"
@@ -213,13 +213,7 @@ hobbies:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MainaJoseph&theme=react-dark&bg_color=20232a&hide_border=false&border=667eea&color=667eea&line=764ba2&point=ffffff&area=true&area_color=764ba2" width="100%"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MainaJoseph&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7&border=667eea" alt="Trophies"/>
-</p>
 
 ---
 
@@ -414,10 +408,10 @@ hobbies:
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourhandle">
+  <a href="https://buymeacoffee.com/mainajm">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
   </a>
-  <a href="https://ko-fi.com/yourhandle">
+  <a href="https://ko-fi.com/mainajm254">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="40"/>
   </a>
 </p>
